@@ -1,7 +1,7 @@
 # Prusa_i3mk3_Remote_PSU
 Custom Solution for relocating the Prusa i3 MK3 PSU, Rambo, and LCD 
 
-##Bill of Materials:
+## Bill of Materials:
 - (qty of 1):	WM7837-ND	0395311002	TERM BLOCK HDR 2POS VERT 5.08MM
 - (qty of 7): WM4824-ND	0705430036	CONN HEADER VERT 2POS 2.54MM
 - (qty of 7):	WM2900-ND	0050579402	CONN HOUSING 2POS .100 W/LATCH
